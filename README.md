@@ -1,4 +1,4 @@
-# 🔍 LeBonCoin Scraper
+# LeBonCoin Scraper
 
 Un outil d'extraction et d'analyse de données pour les annonces LeBonCoin, avec simulation de comportement humain pour éviter la détection.
 
